@@ -14,5 +14,5 @@ const inputHanldeChange = ({target}) => {
 }
 
 
-return [value, inputHanldeChange]
+return [value, inputHanldeChange, reset]
 }
